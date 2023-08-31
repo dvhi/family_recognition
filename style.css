@@ -1,0 +1,24 @@
+#head_1{
+color: white;
+font-size: 26px;
+font-style:italic;
+letter-spacing:2px;
+}
+
+.family
+{
+    color: turquoise;
+    padding: 2px;
+    width: 200px;
+    letter-spacing:3px;
+}
+
+body
+{
+    background-color:blueviolet;
+}
+
+label
+{
+    color:orangered;
+}
